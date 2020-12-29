@@ -1,4 +1,7 @@
 # JavaScript-Projects
 ## General Information
-* Elegant Front-end Design
+* Stunning Front-end Design
+* used Basic HTML and CSS
+* Used JavaScript for validation
+* It Changes Background-color if there is an error
 
