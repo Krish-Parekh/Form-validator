@@ -1,2 +1,4 @@
 # JavaScript-Projects
-## General Info
+## General Information
+* Elegant Front-end Design
+
